@@ -27,8 +27,10 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
