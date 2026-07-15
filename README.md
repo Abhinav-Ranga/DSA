@@ -5,10 +5,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
