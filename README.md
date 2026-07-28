@@ -57,4 +57,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Abhinav-Ranga/DSA/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Abhinav-Ranga/DSA/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
