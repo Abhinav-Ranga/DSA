@@ -34,6 +34,7 @@
 | [0152-maximum-product-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0152-maximum-product-subarray) |
 | [0724-find-pivot-index](https://github.com/Abhinav-Ranga/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav-Ranga/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -58,9 +59,14 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Abhinav-Ranga/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Abhinav-Ranga/DSA/tree/master/2235-add-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
