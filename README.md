@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhinav-Ranga/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhinav-Ranga/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
