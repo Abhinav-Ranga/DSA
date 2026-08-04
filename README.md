@@ -32,6 +32,7 @@
 | [0053-maximum-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-Ranga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0152-maximum-product-subarray) |
+| [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Abhinav-Ranga/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -58,6 +59,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Abhinav-Ranga/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -65,10 +67,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinav-Ranga/DSA/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2235-add-two-integers](https://github.com/Abhinav-Ranga/DSA/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -83,4 +87,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinav-Ranga/DSA/tree/master/0412-fizz-buzz) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
