@@ -39,6 +39,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav-Ranga/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhinav-Ranga/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1672-richest-customer-wealth](https://github.com/Abhinav-Ranga/DSA/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Abhinav-Ranga/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
