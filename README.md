@@ -41,6 +41,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhinav-Ranga/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/Abhinav-Ranga/DSA/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Abhinav-Ranga/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
@@ -68,6 +69,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhinav-Ranga/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/Abhinav-Ranga/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
