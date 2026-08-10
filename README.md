@@ -21,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-Ranga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0152-maximum-product-subarray) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0930-binary-subarrays-with-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
