@@ -32,6 +32,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Abhinav-Ranga/DSA/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-Ranga/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0152-maximum-product-subarray) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0523-continuous-subarray-sum) |
