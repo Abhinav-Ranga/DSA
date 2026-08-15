@@ -12,6 +12,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0148-sort-list) |
+| [0986-interval-list-intersections](https://github.com/Abhinav-Ranga/DSA/tree/master/0986-interval-list-intersections) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhinav-Ranga/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav-Ranga/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Abhinav-Ranga/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav-Ranga/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhinav-Ranga/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Abhinav-Ranga/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
