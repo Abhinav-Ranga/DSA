@@ -24,6 +24,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Abhinav-Ranga/DSA/tree/master/0148-sort-list) |
+| [1288-remove-covered-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/1288-remove-covered-intervals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav-Ranga/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Abhinav-Ranga/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav-Ranga/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/Abhinav-Ranga/DSA/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-Ranga/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhinav-Ranga/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/Abhinav-Ranga/DSA/tree/master/1672-richest-customer-wealth) |
